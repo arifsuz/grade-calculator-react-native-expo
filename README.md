@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/React%20Native-0.79.5-blue?style=for-the-badge&logo=react" alt="React Native">
   <img src="https://img.shields.io/badge/Expo-53.0.20-000020?style=for-the-badge&logo=expo" alt="Expo">
-  <img src="https://img src="https://img.shields.io/badge/TypeScript-5.8.3-3178C6?style=for-the-badge&logo=typescript" alt="TypeScript">
+  <img src="https://img.shields.io/badge/TypeScript-5.8.3-3178C6?style=for-the-badge&logo=typescript" alt="TypeScript">
   <img src="https://img.shields.io/badge/Platform-iOS%20%7C%20Android%20%7C%20Web-lightgrey?style=for-the-badge" alt="Platform">
 </div>
 
@@ -851,33 +851,13 @@ If applicable, add screenshots.
  - App Version: [e.g. 1.0.0]
 ```
 
-## 📄 License and Credits
+## 📧 **Contact Authors**
+**Developed by :**
+**Muhamad Nur Arif**
+**(41523010147)**
 
-### License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-### Credits
-
-#### Development Team
-- **Lead Developer**: [Your Name]
-- **UI/UX Design**: [Designer Name]
-- **Quality Assurance**: [QA Name]
-
-#### Third-party Libraries
-- **React Native**: Facebook Inc.
-- **Expo**: Expo.io
-- **React Navigation**: React Navigation Contributors
-- **TypeScript**: Microsoft Corporation
-
-#### Design Inspiration
-- **Material Design**: Google
-- **Human Interface Guidelines**: Apple
-- **Expo Design System**: Expo.io
-
-### Acknowledgments
-- Thanks to the Expo team for an amazing platform
-- React Native community for a strong ecosystem
-- Stack Overflow contributors for problem solving
-
----
-
+### **🔗 Link**
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ariftsx.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arifsuz)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marif8/)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ariftsx/)
